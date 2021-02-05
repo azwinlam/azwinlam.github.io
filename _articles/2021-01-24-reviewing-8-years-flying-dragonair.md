@@ -4,9 +4,9 @@ collection: articles
 permalink: /articles/reviewing-8-years-flying-dragonair
 excerpt: 'I decided to learn how to analyze my logbook using a programming language called Python.'
 date: 2021-01-24
-venue: 'Journal 1'
+venue:
 paperurl: 'https://www.linkedin.com/pulse/reviewing-8-years-flying-dragonair-azwin-lam/?trackingId=Uq5xe5q2H2R3gYW2DrTWwg%3D%3D'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation:
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
