@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Data Science & Machine Learning Immersive, Xccelerate, Hong Kong, 2021
+  * Visualized pilot logbook to quantify the accomplished achieved over 8 years of flying
+  * Determined foodpanda price advantage against UberEats and Deliveroo through web scraping and exploratory data analysis
+  * Predicted used car prices using linear regression model from data found on Kaggle Datasets 
+
+* Bachelor of Arts Business Management, University of Sunderland, 2016-2017 
+* Bachelor of Commerce, Sauder School of Business, University of British Columbia, 2008-2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* First Officer, Hong Kong Dragon Airlines Limited, Hong Kong, China, 2012-2020
+  * Reviewed airport and en-route weather to assess fuel uplift and airway routing to ensure safe and smooth flight operations
+  * Identified possible threats by analyzing operational procedures and suggesting mitigating solutions
+  * Improved passenger experiences through effective communications regarding disruptions and daily operations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Cadet Leader Instructor, Royal Canadian Air Cadets (RCAC), Vancouver, BC, Canada	       2004-2011
+  * Directed specialized training decisions of new members by presenting detailed information and benefits of each option in open discussion seminar
+  * Increased team morale by constantly motivating drill team members to maintain drill standards
+  * Improved leadership skills of five individuals through personal advice on delegation and communication
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Task oriented
+* Tact and Diplomacy
+* Flexibility/Adaptability
+* Consistent Work ethic
+* Interpersonal skills
 
-Publications
+Articles
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.articles %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
