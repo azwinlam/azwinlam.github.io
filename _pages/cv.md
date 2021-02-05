@@ -41,7 +41,7 @@ Skills
 * Consistent Work ethic
 * Interpersonal skills
 
-Articles
+Blogs
 ======
   <ul>{% for post in site.articles %}
     {% include archive-single-cv.html %}

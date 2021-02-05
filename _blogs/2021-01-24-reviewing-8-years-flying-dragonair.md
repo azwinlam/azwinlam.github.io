@@ -1,7 +1,7 @@
 ---
 title: "Reviewing 8 Years of Flying with Dragonair"
-collection: articles
-permalink: /articles/reviewing-8-years-flying-dragonair
+collection: blogs
+permalink: /blogs/reviewing-8-years-flying-dragonair
 excerpt: 'After receiving our Certificate of Service dated Oct 21, 2020, colleagues have posted their final sendoff with pictures and words of reflection. I wanted to post my sendoff as well, but I had so many unanswered questions about what I accomplished over the last 8 years. Where did I fly to?'
 date: 2021-01-24
 venue:
