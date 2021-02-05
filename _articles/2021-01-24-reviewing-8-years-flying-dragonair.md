@@ -28,7 +28,7 @@ In addition to providing how many captains I've flown with, it also prints out h
 
 Instead of printing out 228 different rows, I've shortened the list to the top 30 Captains by sectors flown. Names have been blurred for privacy.
 
-![alt text](https://github.com/azwinlam/azwinlam.github.io/blob/master/images/pilot%20log%20book/Which%20captain%20did%20I%20fly%20with%20most%20by%20sectors.png "Most Sectors Flown")
+![Most Sectors Flown](/images/pilot log book/Cockpit Hours Shared Top 30 Commanders.png)
 
 But this led to another question. For how many hours did I fly with each captain?
 
