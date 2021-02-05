@@ -43,7 +43,7 @@ Skills
 
 Blogs
 ======
-  <ul>{% for post in site.articles %}
+  <ul>{% for post in site.blogs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
