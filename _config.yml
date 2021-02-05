@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Azwin Lam's Blog"
+title                    : "Azwin Lam"
 title_separator          : "-"
 name                     : &name "Azwin Lam"
-description              : &description "personal description"
+description              : &description "Data Scientist"
 url                      : https://azwinlam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "azwinlam/azwinlam.github.io"
