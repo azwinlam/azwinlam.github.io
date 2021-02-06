@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Blogs"
-permalink: /blogs/
+title: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my blogs on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my blog on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-{% for post in site.blogs reversed %}
+{% for post in site.blog reversed %}
   {% include archive-single.html %}
 {% endfor %}
