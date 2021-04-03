@@ -1,6 +1,6 @@
 ---
 title: "One Place Foodie"
-excerpt: "One Place to Find Where to Eat Next!<br/><img src='/images/500x300.png'>"
+excerpt: "One Place to Find Where to Eat Next!<br/><img src='/images/OPFscreenshot.png'>"
 collection: portfolio
 ---
 
