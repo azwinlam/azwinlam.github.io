@@ -45,7 +45,7 @@ Which KA callsign or route did I fly the most? How about destination?
 
 How many sectors did I fly on the A330? A320? A321? Which airframe did I fly the most?
 
-<img src="images/pilot log book/Sectors By Airframe.png" alt="Which aircraft type did I fly most" title="Which aircraft type did I fly most"/>
+<img src="images/pilot log book/Which aircraft type did I fly most.png" alt="Which aircraft type did I fly most" title="Which aircraft type did I fly most"/>
 
 <img src="images/pilot log book/Sectors By Airframe.png" alt="Sectors By Airframe" title="Sectors By Airframe"/>
 
