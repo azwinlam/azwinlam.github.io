@@ -4,10 +4,7 @@ excerpt: "One Place to Find Where to Eat Next!<br/><img src='/images/OPFscreensh
 collection: portfolio
 ---
 
-# One Place Foodie
-One Place to Find Where to Eat Next!
 * [One Place Foodie](http://tinyurl.com/oneplacefoodie "One Place Foodie")
-* 
 * Streamlit server hosted on Google Cloud Platform VM. Should be running until June 30, 2021.
 
 ## Objective
@@ -43,3 +40,6 @@ One Place to Find Where to Eat Next!
 * Collect data on food preference of users (anonymously)
 * Collect spending habits from restaurant visits
 * Opportunities for Restaurants to promote thier brand
+
+## GitHub
+* [One Place Foodie](https://github.com/azwinlam/oneplacefoodie "One Place Foodie")

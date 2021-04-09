@@ -109,3 +109,6 @@ model.add(Dense(num_classes, activation = 'softmax', kernel_regularizer=regulari
 * Collect data on items that are price sensitive
 * Opportunities for grocers to market directly to the consumer
 * Logistic companies can offer consolidated grocery services
+
+## GitHub
+[Beer Price Checker](https://github.com/azwinlam/beerpricechecker "Beer Price Checker")
