@@ -6,7 +6,7 @@ collection: portfolio
 <img src="/images/beerpricechecker/title.png" alt="Banner" title="Title"/>
 
 Take a photo, find the best price at a grocer near you.
-* http://tinyurl.com/beerpricechecker
+* [Beer Price Checker](http://tinyurl.com/beerpricechecker "Beer Price Checker")
 * Streamlit server hosted on Google Cloud Platform VM. Should be running until June 30, 2021.
 
 ## Objective
