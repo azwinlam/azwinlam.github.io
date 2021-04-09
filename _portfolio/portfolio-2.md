@@ -3,10 +3,10 @@ title: "Beer Price Checker"
 excerpt: "Maximize your Alcohol Consumption Per Dollar Spent!<br/><img src='/images/BeerPriceChecker.png'>"
 collection: portfolio
 ---
-<img src="https://github.com/azwinlam/beerpricechecker/blob/main/images/title.png" alt="Banner"
+<img src="https://github.com/azwinlam/beerpricechecker/blob/main/images/title.PNG" alt="Banner"
 	title="Title" width="150" height="100" />
 
-![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/title.png "Title")
+![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/title.PNG "Title")
 
 Take a photo, find the best price at a grocer near you
 * http://tinyurl.com/beerpricechecker
