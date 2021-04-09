@@ -32,7 +32,7 @@ Instead of printing out 228 different rows, I've shortened the list to the top 3
 
 But this led to another question. For how many hours did I fly with each captain?
 
-![Shared Top 30 Commanders](images/pilot log book/Cockpit Hours Shared Top 30 Commanders.png)
+<img src="images/pilot log book/Cockpit Hours Shared Top 30 Commanders.png" alt="Shared Top 30 Commanders" title="Shared Top 30 Commanders"/>
 
 It turns out I spent over 80 hours in a cockpit with Captain M! The list between sectors flown and hours sharing a cockpit had overlapping commanders as you can imagine.
 
