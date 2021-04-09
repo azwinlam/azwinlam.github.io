@@ -8,7 +8,7 @@ collection: portfolio
 
 ![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/title.PNG "Title")
 
-Take a photo, find the best price at a grocer near you
+Take a photo, find the best price at a grocer near you.
 * http://tinyurl.com/beerpricechecker
 * Streamlit server hosted on Google Cloud Platform VM. Should be running until June 30, 2021.
 
