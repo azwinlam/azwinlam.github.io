@@ -1,12 +1,9 @@
 ---
 title: "Beer Price Checker"
-excerpt: "Maximize your Alcohol Consumption Per Dollar Spent!<br/><img src='/images/BeerPriceChecker.png'>"
+excerpt: "Maximize your Alcohol Consumption Per Dollar Spent!<br/><img src='/images/beerpricechecker/BeerPriceChecker.png'>"
 collection: portfolio
 ---
-<img src="https://github.com/azwinlam/beerpricechecker/blob/main/images/title.PNG" alt="Banner"
-	title="Title" width="150" height="100" />
-
-![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/title.PNG "Title")
+<img src="/images/beerpricechecker/title.png" alt="Banner" title="Title"/>
 
 Take a photo, find the best price at a grocer near you.
 * http://tinyurl.com/beerpricechecker
@@ -43,7 +40,7 @@ Take a photo, find the best price at a grocer near you.
 * Images were cropped using a standalone python .exe called inbac.
 * Labels were applied to the images using folders.
 
-![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/consumercouncil.png "Consumer Council")
+<img src="/images/beerpricechecker/consumercouncil.png" alt="Consumer Council" title="Consumer Council"/>
 
 ## Modelling
 * The baseline CCN model was taken from https://www.tensorflow.org/tutorials/images/classification.
@@ -95,7 +92,7 @@ model.add(Dense(num_classes, activation = 'softmax', kernel_regularizer=regulari
 ## Production
 * Streamlit was used to deploy the model. 
 
-![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/streamlitscreenshot.png "Streamlit")
+<img src="/images/beerpricechecker/streamlitscreenshot.png" alt="streamlitscreenshot" title="streamlitscreenshot"/>
 
 ## Presentation
 [PowerPoint](https://github.com/azwinlam/beerpricechecker/blob/main/Beer%20Price%20Checker.pptx)
