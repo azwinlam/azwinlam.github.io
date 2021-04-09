@@ -51,6 +51,8 @@ How many sectors did I fly on the A330? A320? A321? Which airframe did I fly the
 
 And just for fun, how many nautical miles did I fly? How does this compare to the distance to the moon? I could have done 3 round trips to the moon!
 
+<img src="images/pilot log book/flying to the moon.png" alt="Fly me to the moon" title="Fly me to the moon"/>
+
 Visualizing my logbook has helped me answer some of the questions on what I have accomplished over the past 8 years. I will be forever grateful to Dragonair and my colleagues and thank you, to the 228 captains, who mentored me throughout my career
 
 Thank you for taking the the time in reading my first article. If you would like to see your logbook visualized in a similar manner, please feel free to contact me with your digital logbook. If you have new ideas of what else to visualize, please reach me on Linkedin.
