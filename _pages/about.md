@@ -10,7 +10,7 @@ redirect_from:
 ## Me
 "There's got to be a better way"
 
-Passionate data scientist enrolled in an immersive coding program. Determined self-starter. Enjoys coding challenges and learning from others. Strengths in communication and problem solving. Fluent in English and Cantonese. Proficient in Python and data visualization using PowerBI.
+Passionate data scientist enrolled in an immersive coding program. Determined self-starter. Enjoys coding challenges and learning from others. Strengths in communication and problem solving. Proficient in Python and data visualization using PowerBI. An effective team player who can bridge differences between Western and Eastern cultures, management and frontline staff. Can explain key concepts to non-technical staff to improve team synergy and productivity. Fluent in English and Cantonese. 
 
 LANGUAGES/APTITUDES 
 * PYTHON 
