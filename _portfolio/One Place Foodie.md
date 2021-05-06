@@ -4,7 +4,7 @@ excerpt: "One Place to Find Where to Eat Next!<br/><img src='/images/OPFscreensh
 collection: portfolio
 ---
 
-* [One Place Foodie](http://tinyurl.com/oneplacefoodie "One Place Foodie")
+* [One Place Foodie](http://34.71.80.132:8502/ "One Place Foodie")
 * Streamlit server hosted on Google Cloud Platform VM. Should be running until June 30, 2021.
 
 ## Objective
